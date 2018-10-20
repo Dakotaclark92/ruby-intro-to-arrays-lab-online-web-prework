@@ -39,3 +39,5 @@ def programming_languages
 end
 
 def length_of_array
+  programming_languages.count
+end
