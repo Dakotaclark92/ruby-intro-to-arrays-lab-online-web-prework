@@ -19,7 +19,7 @@ def third_element
 end
 
 def last_element
-  taylor_swift.[3]
+  taylor_swift[3]
 end
 
 def south_east_asia
