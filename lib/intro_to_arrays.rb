@@ -18,3 +18,7 @@ def third_element
   taylor_swift[2]
 end
 
+def last_element
+  taylor_swift.last
+end
+
