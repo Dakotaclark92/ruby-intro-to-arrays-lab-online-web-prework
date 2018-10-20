@@ -34,5 +34,8 @@ def last_element_with_array_methods
   south_east_asia.last
 end
 
-def programing_languages
-  []
+def programming_languages
+  ["Ruby", "Javascript", "Python", "C++", "Java", "Lisp", "PHP", "Clojure"]
+end
+
+def 
