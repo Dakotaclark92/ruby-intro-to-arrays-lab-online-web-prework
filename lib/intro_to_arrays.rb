@@ -10,15 +10,15 @@ def taylor_swift
   ["Welcome to New York", "Blank Space", "Style", "Out of the Woods"]
 end
 
-def first_element
+def my_first_element
   taylor_swift[0]
 end
 
-def third_element
+def my_third_element
   taylor_swift[2]
 end
 
-def last_element
+def my_last_element
   taylor_swift[3]
 end
 
@@ -26,11 +26,11 @@ def south_east_asia
   ["Thailand", "Cambodia", "Singapore", "Myanmar"]
 end
 
-def first_element_with_array_methods
+def first_country
   south_east_asia.first
 end
 
-def last_element_with_array_methods
+def last_country
   south_east_asia.last
 end
 
