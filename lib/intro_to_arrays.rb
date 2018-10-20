@@ -7,4 +7,4 @@ def my_two_array
 end
 
 def taylor_swift
-  []
+  ["Welcome to New York", "Blank Space", ]
