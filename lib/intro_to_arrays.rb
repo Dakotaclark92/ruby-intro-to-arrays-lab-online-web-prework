@@ -22,3 +22,5 @@ def last_element
   taylor_swift.last
 end
 
+def south_east_asia
+  []
